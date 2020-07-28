@@ -1,0 +1,4 @@
+ls
+rm *#
+ls
+pwd
