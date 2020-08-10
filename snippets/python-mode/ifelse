@@ -1,0 +1,10 @@
+# -*- mode: snippet -*-
+# name: ifelse
+# key: fi
+# --
+if ($2):
+    // Your Code Here!
+    $(1)
+else:
+    // Your Code Goes Here!
+    ($0)

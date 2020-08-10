@@ -1,4 +1,15 @@
 ls
-rm *#
-ls
 pwd
+find-file ~/.aliases 
+cd
+rr
+cd universe/
+cd config/
+ls
+ls -a
+find-file .python
+find-file .aliases 
+find-file ~/.bashrc
+find-file ~/.config 
+ls
+ls

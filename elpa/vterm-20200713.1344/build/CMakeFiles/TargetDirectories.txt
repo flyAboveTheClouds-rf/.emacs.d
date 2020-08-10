@@ -1,0 +1,5 @@
+/Users/flyabovetheclouds.rf/.emacs.d/elpa/vterm-20200713.1344/build/CMakeFiles/rebuild_cache.dir
+/Users/flyabovetheclouds.rf/.emacs.d/elpa/vterm-20200713.1344/build/CMakeFiles/edit_cache.dir
+/Users/flyabovetheclouds.rf/.emacs.d/elpa/vterm-20200713.1344/build/CMakeFiles/libvterm.dir
+/Users/flyabovetheclouds.rf/.emacs.d/elpa/vterm-20200713.1344/build/CMakeFiles/run.dir
+/Users/flyabovetheclouds.rf/.emacs.d/elpa/vterm-20200713.1344/build/CMakeFiles/vterm-module.dir

@@ -1,1 +1,1 @@
-("~/universe/angular-tour-of-heroes/" "~/universe/my-app/" "~/universe/org/")
+("~/universe/org/" "~/.emacs.d/" "~/universe/electron-app/" "~/universe/flyAboveTheClouds/" "~/universe/code-study/howdoi/" "~/universe/GATE/" "~/universe/config/" "~/universe/my-app/")
